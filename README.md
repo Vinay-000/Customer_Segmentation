@@ -1,1 +1,1 @@
-# Vinay- This file it to show case activity 
+# Vinay- This repository is for long term personal projects. 
