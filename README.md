@@ -1,5 +1,6 @@
 # Customer Segmentation Project
 
+
 The Customer Segmentation Project aims to analyze customer behavior and create distinct segments for targeted marketing strategies and personalized customer experiences.
 
 ## Key Features
