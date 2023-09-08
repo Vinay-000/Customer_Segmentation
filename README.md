@@ -36,3 +36,6 @@ The Customer Segmentation Project aims to analyze customer behavior and create d
 ## Contributing
 
 Contributions are welcome! Please follow the guidelines.
+
+
+
